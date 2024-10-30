@@ -14,7 +14,7 @@ I am passionate about community work, with years of experience in volunteering. 
 
 
 - 📫 How to reach me diegocaceresus@gmail.com
-- 🌱[LinkedIn](www.linkedin.com/in/diegocaceresdev)
+- 🌱[LinkedIn](https://www.linkedin.com/in/diegocacer)
 
 
 <a href="https://www.linkedin.com/in/diegocaceresdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diegocaceresdev" height="30" width="40" /></a>
